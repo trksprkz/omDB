@@ -10,3 +10,6 @@ OMDB has a LOT more in their API than just movies, I expanded the parameters to 
 ![image](https://user-images.githubusercontent.com/54684726/185732157-c893e70d-e62c-4e18-89aa-3c7b0e992cd3.png)
 I'm currently working on creating the favorites component and the ability to view favorites.
 ![image](https://user-images.githubusercontent.com/54684726/185732160-fd071f3e-bb42-48ba-8380-0b0114adacad.png)
+*EDIT* unfortunately in the time frame I wasn't able to get far enough to complete it,
+
+To test the app clone the repo and run npm start
