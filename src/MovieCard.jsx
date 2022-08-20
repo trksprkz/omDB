@@ -16,6 +16,7 @@ const MovieCard = ({ movie }) => {
                        <span>{movie.Type}</span>
                         <h3>{movie.Title}</h3>
                         <p>{movie.Genre}</p>
+
                         <h3>{movie.isFavorite}</h3>
                         <div className='row'>
 
